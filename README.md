@@ -1,2 +1,2 @@
 # checkLink
-interview task
+Что выведет программа?
